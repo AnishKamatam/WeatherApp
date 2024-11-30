@@ -1,4 +1,4 @@
-# React Weather App
+# Weather App
 
 A simple, responsive weather application built with React. This app allows users to search for weather details based on their location and displays information such as temperature, humidity, wind speed, and weather conditions.
 
